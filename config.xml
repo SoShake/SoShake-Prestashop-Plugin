@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>soshake</name>
+	<displayName><![CDATA[SoShake]]></displayName>
+	<version><![CDATA[2.1]]></version>
+	<description><![CDATA[Retrouvez toutes les solutions SoShake d&eacute;di&eacute;es aux r&eacute;seaux sociaux con&ccedil;ues par Up 2 Social]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
